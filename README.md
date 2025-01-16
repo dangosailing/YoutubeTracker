@@ -28,5 +28,8 @@ Project for python development course. Track youtube stats for various channels
     STAGE 2: Interfacing with user
     - Build a simple webapp with FLASK 
 
+### Libraries
+Official Google API python client: google-api-python-client
+`Used to handle the API requests to youtube`
 
 
