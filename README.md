@@ -31,5 +31,10 @@ Project for python development course. Track youtube stats for various channels
 ### Libraries
 Official Google API python client: google-api-python-client
 `Used to handle the API requests to youtube`
+'https://github.com/googleapis/google-api-python-client/blob/main/docs/start.md'
 
+### Workflow - log
+1. Adding the google developer console YT API key to system variables (WIN 10)
+2. Had some issues with installing the module for google api python client. 
+Resolved by setting python interpreter from anaconda to venv in vscode settings
 
